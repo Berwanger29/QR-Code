@@ -43,6 +43,7 @@ body {
 }
 .card .card_img {
   width: 90%;
+  border-radius: 10px;
 }
 
 .footer {
