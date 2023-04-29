@@ -32,6 +32,7 @@ body {
   border-radius: 10px;
   background-color: #0061F5;
   width: 60%;
+  max-width: 500px;
   padding: 20px;
 }
 .card p {
