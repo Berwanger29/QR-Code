@@ -1,0 +1,12 @@
+@import '../abstract/var';
+
+.header {
+    text-align: center;
+    padding: 15px 0;
+    height: 30vh;
+
+    .header_title {
+        font-weight: $w-semi-bold;
+        font-size: $h-title;
+    }
+}
